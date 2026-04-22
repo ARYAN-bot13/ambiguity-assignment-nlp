@@ -1,0 +1,1 @@
+This project explores ambiguity in Natural Language Processing (NLP), which occurs when a sentence or phrase can have more than one meaning. Handling ambiguity is one of the key challenges in building accurate NLP systems.
